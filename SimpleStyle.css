@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+*{
+    background-color: lightsteelblue;
+    text-align: center;
+}
+div a:hover{
+    text-decoration: none;
+    color:gold;
+
+}
+div a{
+    text-decoration: none;
+    color:dimgrey;
+
+}
