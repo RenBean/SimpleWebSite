@@ -2,7 +2,11 @@ h1{
     text-align: center;
 }
 *{
-    background-color: aliceblue;
+    background-color: lightsteelblue;
+    text-align: center;
+}
+table{
+    table-layout: auto;
     text-align: center;
 }
 div a:hover{
